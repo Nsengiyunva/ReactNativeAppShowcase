@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1560497265408" clover="3.2.0">
+  <project timestamp="1560497265408" name="All files">
+    <metrics statements="25" coveredstatements="14" conditionals="10" coveredconditionals="2" methods="6" coveredmethods="4" elements="41" coveredelements="20" complexity="0" loc="25" ncloc="25" packages="3" files="8" classes="8"/>
+    <package name="pamoja">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.js" path="/home/louicoder/Desktop/pamoja/App.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pamoja.assets">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="pamojaCreditCard.png" path="/home/louicoder/Desktop/pamoja/assets/pamojaCreditCard.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="pamojaCreditLoans.png" path="/home/louicoder/Desktop/pamoja/assets/pamojaCreditLoans.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="pamojaCreditSavings.png" path="/home/louicoder/Desktop/pamoja/assets/pamojaCreditSavings.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="pamojaCreditTransactions.png" path="/home/louicoder/Desktop/pamoja/assets/pamojaCreditTransactions.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pamoja.src.screens.GuideScreens">
+      <metrics statements="20" coveredstatements="9" conditionals="10" coveredconditionals="2" methods="5" coveredmethods="3"/>
+      <file name="GuideScreensStyles.js" path="/home/louicoder/Desktop/pamoja/src/screens/GuideScreens/GuideScreensStyles.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+      <file name="config.js" path="/home/louicoder/Desktop/pamoja/src/screens/GuideScreens/config.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="index.js" path="/home/louicoder/Desktop/pamoja/src/screens/GuideScreens/index.js">
+        <metrics statements="19" coveredstatements="8" conditionals="10" coveredconditionals="2" methods="5" coveredmethods="3"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="34" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="39" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="65" count="4" type="stmt"/>
+        <line num="82" count="4" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
